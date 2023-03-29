@@ -15,3 +15,7 @@
 
 1. Doma - 32
 1. Nono - 15
+
+### 5 min
+1. Gabor - 14
+2. Roli - 25
