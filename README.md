@@ -4,14 +4,14 @@
 
 ### 10 min
 
-Miki - 49
-Doma - 32
-Roli - 28
-Nono - 14
+1. Miki - 49
+1. Doma - 32
+1. Roli - 28
+1. Nono - 14
 
 ## Pushups
 
 ### At one go
 
-Doma - 32
-Nono - 15
+1. Doma - 32
+1. Nono - 15
